@@ -1,2 +1,2 @@
 IFTTTEvent = 'iottest'
-IFTTTKey = 'cg6zHUpmCXUBSeXeZUD3wU'
+IFTTTKey = '<your key here>'
